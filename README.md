@@ -1,5 +1,5 @@
 # jquery-treeNav
-A lightweight jQuery plugin to generate Tree View Navigation from HTML nested lists.
+A lightweight <a href="https://www.codehim.com/menu/css-and-jquery-tree-view-navigation-menu-treenav/"> jQuery plugin to generate Tree View Navigation </a> from HTML nested lists.
 ## TreeNav Preview
 ![TreeNav Preview](treenav-preview.jpg)
 ## How to use:
