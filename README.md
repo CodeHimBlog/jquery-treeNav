@@ -1,5 +1,5 @@
 # jquery-treeNav
-A simple jQuery Tree View Navigation from HTML unordered list.
+A lightweight jQuery plugin to generate Tree View Navigation from HTML nested lists.
 ## TreeNav Preview
 ![TreeNav Preview](treenav-preview.jpg)
 ## How to use:
