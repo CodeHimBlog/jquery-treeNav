@@ -1,4 +1,4 @@
-*!  Plugin: treeNav (Tree View from HTML Nested List)
+/*!  Plugin: treeNav (Tree View from HTML Nested List)
  *   Author: Asif Mughal
  *   URL: www.codehim.com
  *   License: MIT License
